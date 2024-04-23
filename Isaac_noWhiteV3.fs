@@ -12,7 +12,7 @@
 			"NAME": "Colour_intensity",
 			"TYPE": "float",
 			"MIN": 0.0,
-			"MAX": 10.0,
+			"MAX": 1.0,
 			"DEFAULT": 0.0
 		},
 		{
